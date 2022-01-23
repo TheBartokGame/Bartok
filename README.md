@@ -1,2 +1,2 @@
 # Bartok
-Bartok core
+Bartok's core engine
